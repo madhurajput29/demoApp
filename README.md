@@ -9,6 +9,11 @@
 
 This App uses json-server as its dependency. So, first we need to start the json-server and then the App.
 
+Install all the dependencies:
+```console
+npm install
+```
+
 To start the json-server:
 ```console
 npm run json:server
