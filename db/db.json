@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "2f24vvg",
+      "email": "test@test.com",
+      "password": "$2a$10$naF03iFsMORbrO5ROPxO3uRl1HCo3u7GaGlb3pWRsQgrhUAtpX92e",
+      "cart": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "d1u9nq",
+      "email": "user2@example.com",
+      "password": "$2a$10$naF03iFsMORbrO5ROPxO3uRl1HCo3u7GaGlb3pWRsQgrhUAtpX92e",
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Nikon D850",
+      "description": "D850 is Nikon's next-generation high resolution, full-frame DSLR",
+      "price": "40000.20",
+      "make": "2019"
+    },
+    {
+      "id": "2",
+      "name": "Nikon D750",
+      "description": "D750 is Nikon's next-generation high resolution, full-frame DSLR",
+      "price": "40000.00",
+      "make": "2017"
+    },
+    {
+      "id": "3",
+      "name": "Sony D750",
+      "description": "D750 is Sony's next-generation high resolution, full-frame DSLR",
+      "price": "45000.70",
+      "make": "2014"
+    },
+    {
+      "id": "4",
+      "name": "Sony D850",
+      "description": "D850 is Sony's next-generation high resolution, full-frame DSLR",
+      "price": "30000.80",
+      "make": "2018"
+    },
+    {
+      "id": "5",
+      "name": "Nikon D75",
+      "description": "D75 is Nikon's next-generation high resolution, full-frame DSLR",
+      "price": "40000.70",
+      "make": "2020"
+    }
+  ]
+}
